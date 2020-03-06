@@ -14,7 +14,7 @@ async function main() {
   });
 
   const config = createConfig({
-    UPDATE_LABELS: "it-update",
+    UPDATE_LABELS: "automerge",
     MERGE_LABELS: "it-merge",
     MERGE_REMOVE_LABELS: "it-merge",
     MERGE_RETRIES: "3",
